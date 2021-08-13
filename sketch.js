@@ -14,6 +14,7 @@ function setup() {
 
 function draw() {
   background(bg2);
+  Clues();
   security.display();
   textSize(20);
   fill("white");
