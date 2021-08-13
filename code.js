@@ -2,7 +2,7 @@ const accessCode1 = "zombi";
 const accessCode2 = "enderman";
 const accessCode3 = "wither";
 const accessCode4="ender dragon";
-function clues() {
+function Clues() {
     
     
     textSize(15)
